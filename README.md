@@ -17,3 +17,5 @@ Uses 3 Models :
   </ul>
   
   
+If you have any further questions, please don't hesitate to contact me via email <b>firasalhabri@gmail.com</b>
+The entire repository was a part of the NLP mini project at the Department of Artificial Intelligence and Natural Languages Processing at Damascus University 2019.
