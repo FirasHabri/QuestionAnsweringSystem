@@ -1,4 +1,4 @@
-# QuestionAnsweringSystem
+# Question Answering System
 an Arabic Question Answering System for The Syrian National Team.
 Uses 3 Models : 
 <ul>
